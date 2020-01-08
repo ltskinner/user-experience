@@ -35,3 +35,11 @@ React
   * HTML file that presents the view
   * CSS file for stype
   * Spec file for testing
+
+## CSS
+
+* [flexbox cheatsheet](http://flexbox.malven.co/)
+
+## Resources 
+
+[Choosing Colors](https://uxplanet.org/color-matters-6-tips-on-choosing-ui-colors-260f56197a7b)
